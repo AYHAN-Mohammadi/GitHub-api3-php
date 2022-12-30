@@ -51,7 +51,7 @@ The following resources for the API are covered:
 
 ### Requirements
 
- * PHP 5.3+ 
+ * PHP 7+ 
 
 ### Dependancies
 
