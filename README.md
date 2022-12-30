@@ -165,7 +165,7 @@ full list of available update fields. The updated user is returned.
 ```php
     $response = $user->update(array(
       'name'      => 'Ayhan-Mohammadi',
-      'email'     => 'd.syph.3r@gmail.com',
+      'email'     => 's.r.deves@gmail.com',
       'location'  => 'Wales, UK'
     ));
 ```
