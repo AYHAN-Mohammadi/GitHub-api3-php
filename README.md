@@ -53,9 +53,9 @@ The following resources for the API are covered:
 
  * PHP 7+ 
 
-### Dependancies
 
- * [Buzz](https://github.com/Ayhan-Mohammadi/Buzz)
+
+
 
 ### Installation
 
