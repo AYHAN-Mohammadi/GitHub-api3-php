@@ -82,7 +82,7 @@ documentation.
 ### Credits
 
 Ideas from the excellent
-[php-github-api](https://github.com/ornicar/php-github-api) library by
+[php-github-api](https://github.com/Ayhan_Mohammadi/php-github-api) library by
 [Sarina Rasouli](https://t.me/s_r_dev) have been used in this library.
 
 ## Authentication
